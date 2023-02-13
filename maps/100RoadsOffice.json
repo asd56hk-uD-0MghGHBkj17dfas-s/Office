@@ -1508,7 +1508,7 @@
                          "value":0.75
                         }],
                  "rotation":0,
-                 "type":"zoom",
+                 "type":"zone",
                  "visible":true,
                  "width":319.539025667889,
                  "x":2332.0942902043,
@@ -1530,7 +1530,7 @@
                          "value":0.75
                         }],
                  "rotation":0,
-                 "type":"zoom",
+                 "type":"zone",
                  "visible":true,
                  "width":278.256587047525,
                  "x":2048.62644668801,
@@ -1552,7 +1552,7 @@
                          "value":1
                         }],
                  "rotation":0,
-                 "type":"zoom",
+                 "type":"zone",
                  "visible":true,
                  "width":370.694177303724,
                  "x":1673.9094247246,
@@ -1574,7 +1574,7 @@
                          "value":1
                         }],
                  "rotation":0,
-                 "type":"zoom",
+                 "type":"zone",
                  "visible":true,
                  "width":353.007489541599,
                  "x":1669.38809447046,
@@ -1596,7 +1596,7 @@
                          "value":1
                         }],
                  "rotation":0,
-                 "type":"zoom",
+                 "type":"zone",
                  "visible":true,
                  "width":209.490854433624,
                  "x":2021.98548001025,
@@ -1618,7 +1618,7 @@
                          "value":1
                         }],
                  "rotation":0,
-                 "type":"zoom",
+                 "type":"zone",
                  "visible":true,
                  "width":364.539547411583,
                  "x":2233.41551588929,
@@ -1640,7 +1640,7 @@
                          "value":1
                         }],
                  "rotation":0,
-                 "type":"zoom",
+                 "type":"zone",
                  "visible":true,
                  "width":364.539547411584,
                  "x":2683.18486494106,
@@ -1662,7 +1662,7 @@
                          "value":1
                         }],
                  "rotation":0,
-                 "type":"zoom",
+                 "type":"zone",
                  "visible":true,
                  "width":209.491,
                  "x":3048.38212685802,
@@ -1684,7 +1684,7 @@
                          "value":1
                         }],
                  "rotation":0,
-                 "type":"zoom",
+                 "type":"zone",
                  "visible":true,
                  "width":353.007,
                  "x":3258.5308413634,
@@ -1706,7 +1706,7 @@
                          "value":1
                         }],
                  "rotation":0,
-                 "type":"zoom",
+                 "type":"zone",
                  "visible":true,
                  "width":353.007,
                  "x":3255.96805304972,
@@ -1728,7 +1728,7 @@
                          "value":1
                         }],
                  "rotation":0,
-                 "type":"zoom",
+                 "type":"zone",
                  "visible":true,
                  "width":209.491,
                  "x":3044.53794438749,
@@ -1750,7 +1750,7 @@
                          "value":1
                         }],
                  "rotation":0,
-                 "type":"zoom",
+                 "type":"zone",
                  "visible":true,
                  "width":364.54,
                  "x":2679.98115325474,
@@ -1772,7 +1772,7 @@
                          "value":1
                         }],
                  "rotation":0,
-                 "type":"zoom",
+                 "type":"zone",
                  "visible":true,
                  "width":364.54,
                  "x":2234.0559866735,
@@ -1794,7 +1794,7 @@
                          "value":1
                         }],
                  "rotation":0,
-                 "type":"zoom",
+                 "type":"zone",
                  "visible":true,
                  "width":209.491,
                  "x":2023.26680138391,
@@ -1816,7 +1816,7 @@
                          "value":1
                         }],
                  "rotation":0,
-                 "type":"zoom",
+                 "type":"zone",
                  "visible":true,
                  "width":353.007,
                  "x":1669.60208687852,
