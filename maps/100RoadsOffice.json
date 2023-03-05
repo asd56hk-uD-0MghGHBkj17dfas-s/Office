@@ -2458,7 +2458,7 @@
                         {
                          "name":"playAudio",
                          "type":"string",
-                         "value":"..\/public\/entrance-jazz.mp3"
+                         "value":"..\/entrance-jazz.mp3"
                         }],
                  "rotation":0,
                  "type":"area",
