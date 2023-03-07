@@ -72,7 +72,7 @@ WA.room.onLeaveLayer("room_walls_remove").subscribe(() => {
           className: "primary",
           callback: () => {
               // Close the popup when the "Close" button is pressed.
-          const a = WA.ui.website.open({
+          WA.ui.website.open({
                   url: "https://docs.google.com/document/d/1-mSPDgih5i0VsidlaNj_lZq3sP3KGSTqizcYGb8Kq4o/edit?usp=sharing",
                   position: {
                       vertical: "middle",
