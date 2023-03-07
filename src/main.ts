@@ -110,20 +110,7 @@ function closePopUp(){
         currentPopup = undefined;
     }
 }
-const TestWebsite = 
-{
-  url: "https://docs.google.com/document/d/1-mSPDgih5i0VsidlaNj_lZq3sP3KGSTqizcYGb8Kq4o/edit?usp=sharing",
-  position: {
-      vertical: "middle",
-      horizontal: "middle",
-  },
-  size: {
-      height: "50vh",
-      width: "50vw",
-  },
-  
 
-}
 
 
 export {};
