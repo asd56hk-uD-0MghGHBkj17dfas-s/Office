@@ -2641,7 +2641,7 @@
                  "id":913,
                  "name":"test_popup",
                  "rotation":0,
-                 "type":"",
+                 "type":"area",
                  "visible":true,
                  "width":942.424242424243,
                  "x":3821.21212121212,
