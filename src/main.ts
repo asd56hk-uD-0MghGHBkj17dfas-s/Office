@@ -64,11 +64,66 @@ WA.room.onLeaveLayer("room_walls_remove").subscribe(() => {
     WA.room.showLayer("facade-furniture-bg");
   });
 
+    // JULIA TESTING
+    WA.room.onEnterLayer('test_popup').subscribe(() => {
+        
+      currentPopup = WA.ui.openPopup("test_popup","Hello This is Julia's test",[{
+          label: "Test",
+          className: "primary",
+          callback: () => {
+              // Close the popup when the "Close" button is pressed.
+          const a = WA.ui.website.open({
+                  url: "https://docs.google.com/document/d/1-mSPDgih5i0VsidlaNj_lZq3sP3KGSTqizcYGb8Kq4o/edit?usp=sharing",
+                  position: {
+                      vertical: "middle",
+                      horizontal: "middle",
+                  },
+                  size: {
+                      height: "50vh",
+                      width: "50vw",
+                  },
+                  
+
+              });
+              
+                  
+            
+          }
+      },
+      {
+        label: "Close",
+        className: "primary",
+        callback: (popup) => {
+            // Close the popup when the "Close" button is pressed.
+            popup.close();
+            
+        }
+    }]);
+  })
+
+  WA.room.onLeaveLayer('test_popup').subscribe(closePopUp)
+  
+
 function closePopUp(){
     if (currentPopup !== undefined) {
         currentPopup.close();
         currentPopup = undefined;
     }
 }
+const TestWebsite = 
+{
+  url: "https://docs.google.com/document/d/1-mSPDgih5i0VsidlaNj_lZq3sP3KGSTqizcYGb8Kq4o/edit?usp=sharing",
+  position: {
+      vertical: "middle",
+      horizontal: "middle",
+  },
+  size: {
+      height: "50vh",
+      width: "50vw",
+  },
+  
+
+}
+
 
 export {};
